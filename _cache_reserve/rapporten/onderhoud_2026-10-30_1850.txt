@@ -1,0 +1,36 @@
+DraveGuard - Totaal onderhoud - 30-10-2026 18:50
+
+RESULTAAT VAN HET KIJKEN
+
+🧹  Rommel opruimen (65.1 MB)
+   [x] Tijdelijke bestanden (gebruiker)  -  20.5 MB  (84)
+   [x] Miniatuur-cache  -  34.2 MB  (7)
+   [x] NVIDIA shader-cache  -  204.0 KB  (6)
+   [x] Installer-restanten (%TEMP%\*.tmp/.msi)  -  10.2 MB  (41)
+
+⬆  Programma-updates (14)
+   [x] Bionic 1.1.9+6  -  1.1.9+6  ->  1.1.10+8
+   [x] cloudflared  -  2026.10.3  ->  2026.10.6
+   [x] Epic Online Services  -  2.9.0  ->  4.3.1
+   [x] GitHub CLI  -  2.103.2  ->  2.103.3
+   [x] LibreWolf  -  158.0.1-2  ->  159.0-1
+   [x] Microsoft Windows Desktop Runtime - 9.0.21 (x64)  -  9.0.21  ->  9.0.22
+   [x] PC Tweaker  -  1.18.18  ->  1.18.25
+   [x] PowerToys (Preview) x64  -  0.101.2362.0  ->  0.102.3001
+   [x] Proton Pass  -  1.37.0  ->  1.43.0
+   [x] Python 3.13.15 (64-bit)  -  3.13.15  ->  3.13.16
+   [x] Tailscale  -  1.104.2  ->  1.104.4
+   [x] Visual Studio Build Tools 2019 (2)  -  16.11.60  ->  16.11.62
+   [x] Visual Studio Build Tools 2026  -  18.11.1  ->  18.11.2
+   [x] WiX Toolset Command-Line Tools  -  7.0.0.0  ->  7.0.1.0
+
+🛠  Extra onderhoud (duurt langer)
+   [ ] Windows-bestanden controleren en repareren (sfc)  -  10 tot 30 minuten
+   [ ] Onderdelen-opslag opruimen (WinSxS)  -  Ruimt oude Windows-onderdelen op, 5 tot 15 minuten
+
+ℹ  Ter info (daar hoef je niets voor aan te vinken)
+   [ ] Windows Update  -  Windows Update-dienst is gestopt (start soms vanzelf bij gebruik).
+   [ ] Schijfversleuteling (BitLocker)  -  Systeemschijf is niet versleuteld (optioneel).
+   [ ] TOSHIBA HDWD110  -  HDD, 931.5 GB, 35 °C, slijtage 0%, 38106 uur aan (ruim 4 jaar), 8 leesfouten  8 oude leesfout(en) in de hele levensduur. Windows vindt de schijf gezond. Houd een back-up.
+   [ ] Seagate Expansion Desk  -  USB-schijf, 1.8 TB, 41 °C, slijtage 0%, 62118 uur aan (ruim 7 jaar), 32 leesfouten  Windows telde 32 leesfout(en), maar bij een USB-schijf is die telling vaak onbetrouwbaar. Windows vindt de schijf gezond. Houd wel een back-up.
+   [ ] SSDPR-PX500-256-80  -  SSD, 238.5 GB, 44 °C, slijtage 0%  Gezond.
