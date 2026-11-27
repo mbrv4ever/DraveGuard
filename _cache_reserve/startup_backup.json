@@ -1,0 +1,9 @@
+{
+  "HKCU|SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run|Opera Browser Assistant": {
+    "naam": "Opera Browser Assistant",
+    "waarde": "\"D:\\Opera Stable\\assistant\\browser_assistant.exe\"",
+    "bron": "HKCU",
+    "scope": "Gebruiker",
+    "subkey": "SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run"
+  }
+}
